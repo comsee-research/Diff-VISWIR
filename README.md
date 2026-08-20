@@ -7,7 +7,7 @@
 <!-- [![Framework](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/) -->
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/lgpl-3.0)
 
-**Official repository for the paper accepted at the 18th International Conference on Control, Automation, Robotics and Vision (ICARCV 2026).**
+**Official repository for the paper accepted at the 19th International Conference on Control, Automation, Robotics and Vision (ICARCV 2026).**
 
 [**Alexandre Riffard**](https://github.com/AlexandreRiffard)<sup>1</sup> · [**Mathieu Labussiere**](https://github.com/MathieuLabussiere)<sup>1</sup> · [**Pierre Duthon**](https://github.com/Pierreduthon)<sup>2</sup> · [**Romuald Aufrere**](https://github.com/RomualdAufrere)<sup>1</sup>
 
