@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software or method in your research, please cite our ICARCV 2026 paper."
+title: "End-to-End Differentiable Visible-SWIR Image Fusion for Robust Perception in Adverse Weather"
+authors:
+  - family-names: "Riffard"
+    given-names: "Alexandre"
+    affiliation: "Université Clermont Auvergne, Clermont Auvergne INP, CNRS, Institut Pascal"
+    email: "alexandre.riffard@uca.fr"
+  - family-names: "Labussiere"
+    given-names: "Mathieu"
+    affiliation: "Université Clermont Auvergne, Clermont Auvergne INP, CNRS, Institut Pascal"
+    email: "mathieu.labussiere@uca.fr"
+  - family-names: "Duthon"
+    given-names: "Pierre"
+    affiliation: "Cerema, Research Team 'Intelligent Transport Systems'"
+    email: "pierre.duthon@cerema.fr"
+  - family-names: "Aufrere"
+    given-names: "Romuald"
+    affiliation: "Université Clermont Auvergne, Clermont Auvergne INP, CNRS, Institut Pascal"
+    email: "romuald.aufrere@uca.fr"
+preferred-citation:
+  type: conference-paper
+  title: "End-to-End Differentiable Visible-SWIR Image Fusion for Robust Perception in Adverse Weather"
+  authors:
+    - family-names: "Riffard"
+      given-names: "Alexandre"
+    - family-names: "Labussiere"
+      given-names: "Mathieu"
+    - family-names: "Duthon"
+      given-names: "Pierre"
+    - family-names: "Aufrere"
+      given-names: "Romuald"
+  conference:
+    name: "18th International Conference on Control, Automation, Robotics and Vision (ICARCV)"
+  year: 2026
+  publisher: "IEEE"
+license: "LGPL-3.0"
