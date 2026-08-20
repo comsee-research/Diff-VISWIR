@@ -47,14 +47,7 @@ Furthermore, our framework operates at 33-37 frames per second on high-definitio
 If you find this work useful in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{riffard2026diffviswir,
-  title     = {End-to-End Differentiable Visible-SWIR Image Fusion for Robust Perception in Adverse Weather},
-  author    = {Riffard, Alexandre and Labussiere, Mathieu and Duthon, Pierre and Aufrere, Romuald},
-  booktitle = {19th International Conference on Control, Automation, Robotics and Vision (ICARCV)},
-  year      = {2026},
-  address   = {Singapore},
-  publisher = {IEEE}
-}
+
 ```
 
 ---
